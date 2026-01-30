@@ -7,5 +7,5 @@ int main(){
 		printf("It is even",num);
 	else
 		printf(" is odd",num);
-	
+	return 0;
 }
